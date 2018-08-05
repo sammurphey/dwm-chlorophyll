@@ -4,10 +4,17 @@ Chlorophyll - a DWM fork
 ![ui preview](screenFetch-2018-08-05_14-16-24.png)
 
 
+
+
+
+
+
 original readme below...
--
--
--
+
+.
+.
+.
+
 
 dwm - dynamic window manager
 ============================
