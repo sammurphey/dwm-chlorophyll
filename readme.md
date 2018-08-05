@@ -3,7 +3,8 @@ Chlorophyll - a DWM fork
 
 ![ui preview](screenFetch-2018-08-05_14-16-24.png)
 
-
+Final result when running with my [.dotfiles](https://github.com/sammurphey/.dotfiles)
+Background images from Unsplash
 
 
 
