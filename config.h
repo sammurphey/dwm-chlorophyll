@@ -34,7 +34,7 @@ static const Rule rules[] = {
 	{ "Atom",       NULL,                  NULL,         1 << 2,       0,           -1 },
 	{ NULL,         NULL,                  "terminal",   1 << 1,       0,           -1 },
 	{ NULL,         NULL,                  "files",      1 << 3,       0,           -1 },
-	{ "Pcmanfm",    NULL,                  NULL,         1 << 3,       0,           -1 },
+      /*{ "Pcmanfm",    NULL,                  NULL,         1 << 3,       0,           -1 },*/
 	{ "Filezilla",  NULL,                  NULL,         1 << 4,       0,           -1 },
 	{ "dmenu",      NULL,                  NULL,         0,            1,           -1 }
 
