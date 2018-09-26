@@ -33,8 +33,15 @@ static const Rule rules[] = {
 	{ "Firefox",    NULL,                  NULL,         0,            0,           -1 },
 	{ "Chrome",     NULL,                  NULL,         0,            0,           -1 },
 	{ "Atom",       NULL,                  NULL,         1 << 2,       0,           -1 },
-	{ NULL,         NULL,                  "terminal",   1 << 1,       0,           -1 },
-	{ NULL,         NULL,                  "files",      1 << 3,       0,           -1 },
+	{ NULL,         NULL,                  "page_1",     1 << 0,       0,           -1 },
+	{ NULL,         NULL,                  "page_2",     1 << 1,       0,           -1 },
+	{ NULL,         NULL,                  "page_3",     1 << 2,       0,           -1 },
+	{ NULL,         NULL,                  "page_4",     1 << 3,       0,           -1 },
+	{ NULL,         NULL,                  "page_5",     1 << 4,       0,           -1 },
+	{ NULL,         NULL,                  "page_6",     1 << 5,       0,           -1 },
+	{ NULL,         NULL,                  "page_7",     1 << 6,       0,           -1 },
+	{ NULL,         NULL,                  "page_8",     1 << 7,       0,           -1 },
+	{ NULL,         NULL,                  "page_9",     1 << 8,       0,           -1 },
       /*{ "Pcmanfm",    NULL,                  NULL,         1 << 3,       0,           -1 },*/
 	{ "Filezilla",  NULL,                  NULL,         1 << 4,       0,           -1 },
 	{ "dmenu",      NULL,                  NULL,         0,            1,           -1 }
