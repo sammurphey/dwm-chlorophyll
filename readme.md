@@ -12,6 +12,7 @@ Burden](https://unsplash.com/@aaronburden) on [Unsplash](https://unsplash.com/)
 
 I don't recommend using this build as is for your main wm as it's not set up to 
 recieve updates from DWM. Instead please install a up-to-date version of [DWM 
-from Suckless](https://dwm.suckless.org/) and then copy my [config.h file] into 
+from Suckless](https://dwm.suckless.org/) and then copy my [config.h 
+file](https://github.com/sammurphey/dwm-chlorophyll/blob/master/config.h) into 
 it's installation directory. After updating the configs you'll need to run `make` 
 again to compile with the new settings.
